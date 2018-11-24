@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Happy Diwali</string>
+    <string name="invalid_name">Invalid name</string>
+    <string name="invalid_password">Invalid password</string>
+</resources>
